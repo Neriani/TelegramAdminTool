@@ -6,12 +6,12 @@
 
     <string name="ban_soft_hint">Note: official Telegram app has no internal tool for temporary ban users, so this app has own local ban-list.
         \nUser which was temporary banned will be removed from ban list only when your device active. If you delete this app or reinstall it, ban list will be lost. You can export list in settings.</string>
-    <string name="chatOwner">Owner:</string>
-    <string name="changeChatAbout">Change description</string>
+    <string name="chatOwner">בעלים:</string>
+    <string name="changeChatAbout">שנה תיאור</string>
     <string name="kickedCount">Kicked:</string>
-    <string name="adminsCount">Admins:</string>
-    <string name="participiantsCount">Participiants:</string>
-    <string name="hint_short_link_not_created">Short link not created</string>
+    <string name="adminsCount">מנהלים:</string>
+    <string name="participiantsCount">משתתפים:</string>
+    <string name="hint_short_link_not_created">לא נוצר לינק קצר</string>
     <string name="btnCancel">ביטול</string>
     <string name="btnSave">שמור</string>
 
